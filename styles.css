@@ -20,15 +20,6 @@ h1, h2, h3, p, a {
   height: 60vh;
 }
 
-/* use media querie for image sizing and text sizing
-refer to notion for the px counts and how 
-
-tell more about myself maybe and use the only so
-much text per line technique to not overwhelm user
-
-after media quiries put on github and ask for
-feedback*/
-
 #head {
   font-size: 2.8rem;
 }
